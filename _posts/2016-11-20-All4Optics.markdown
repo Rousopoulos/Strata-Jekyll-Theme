@@ -1,4 +1,4 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/all4optics.png" class="fit image"> Site for <a href="http://all4optics.com/" target="_blank">all4optics.com</a>
+<a href="http://all4optics.com/" target="_blank"><img src="/images/fulls/all4optics.png" class="fit image"></a> Site for <a href="http://all4optics.com/" target="_blank">all4optics.com</a>
